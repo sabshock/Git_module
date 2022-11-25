@@ -1,2 +1,2 @@
 hello git world
-main branch conflict
+no need i will take care
